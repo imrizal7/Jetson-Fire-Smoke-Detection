@@ -96,7 +96,7 @@ The script will open a live camera feed and draw bounding boxes around any detec
 
 The model reliably detects fire in varied lighting and background conditions. Below are sample detections from live testing on the Jetson Nano:
 
-![Detection Sample](assets/fire1.jpeg)
+![Detection Sample](assets/fire1.png)
 
 ## Contributors
 
