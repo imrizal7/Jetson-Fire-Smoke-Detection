@@ -35,8 +35,8 @@ This system uses a custom-trained YOLOv8 model to detect fire and smoke in real 
 The system was deployed on an NVIDIA Jetson Nano paired with a camera module for live video capture.
 
 <p float="left">
-  <img src="assets/jetson_nano.png" width="45%" alt="Jetson Nano hardware setup" />
-  <img src="assets/project_setup.png" width="45%" alt="Full project setup" />
+  <img src="assets/jetson_nano.jpeg" width="45%" alt="Jetson Nano hardware setup" />
+  <img src="assets/project_setup.jpeg" width="45%" alt="Full project setup" />
 </p>
 
 ## Project Structure
