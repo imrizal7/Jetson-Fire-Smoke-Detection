@@ -63,8 +63,8 @@ The system was deployed on an NVIDIA Jetson Nano paired with a camera module for
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/imrizal7/Jetson-Fire-Smoke-Detection.git
+cd Jetson-Fire-Smoke-Detection
 ```
 
 2. (Recommended) Create and activate a virtual environment:
