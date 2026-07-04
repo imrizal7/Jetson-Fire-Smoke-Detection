@@ -106,8 +106,10 @@ The model reliably detects fire in varied lighting and background conditions. Be
 - **Sakshyam Timsina**
 
 ## Special Thanks To:
--**Prof. Dr. Sudan Jha**
--**Er. Shrawan Thakur**
--**Er. Ayush Poudel**
+
+- **Prof. Dr. Sudan Jha**
+- **Er. Shrawan Thakur**
+- **Er. Ayush Poudel**
+
 
 *Built as part of a hands-on Edge AI workshop at the Nepal Technology Innovation Center (NTIC), Kathmandu University, exploring real-time computer vision on embedded hardware.*
