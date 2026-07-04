@@ -34,6 +34,11 @@ This system uses a custom-trained YOLOv8 model to detect fire and smoke in real 
 
 The system was deployed on an NVIDIA Jetson Nano paired with a camera module for live video capture.
 
+<p float="left">
+  <img src="assets/jetson_nano.png" width="45%" alt="Jetson Nano hardware setup" />
+  <img src="assets/project_setup.png" width="45%" alt="Full project setup" />
+</p>
+
 ## Project Structure
 
 ```
@@ -93,9 +98,16 @@ The script will open a live camera feed and draw bounding boxes around any detec
 
 ## Results
 
-The model reliably detects fire in varied lighting and background conditions. Below is a sample detection from live testing on the Jetson Nano (you can view more via `assets/`):
+The model reliably detects fire in varied lighting and background conditions. Below are sample detections from live testing on the Jetson Nano (view more in `assets/`):
 
-![Fire detection sample](assets/sample_detection.jpg)
+<p float="left">
+  <img src="assets/detection.png" width="30%" alt="Detection output" />
+  <img src="assets/fire1.png" width="30%" alt="Fire detection sample 1" />
+  <img src="assets/fire2.png" width="30%" alt="Fire detection sample 2" />
+</p>
+<p float="left">
+  <img src="assets/fire3.png" width="30%" alt="Fire detection sample 3" />
+</p>
 
 ## Contributors
 
