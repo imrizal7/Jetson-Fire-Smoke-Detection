@@ -3,7 +3,7 @@ from ultralytics import YOLO
 
 # 1. Load your custom trained model
 # Note: Ensure this path correctly points to your weights file
-model_path = r" path_to_your_model "
+model_path = r"best.pt"
 model = YOLO(model_path)
 
 # If Step 1 returned True, uncomment the next line to push processing to the GPU:
