@@ -2,7 +2,7 @@
 
 Real-time fire and smoke detection running on an **NVIDIA Jetson Nano**, powered by **YOLOv8**. Built during a 2-day technical workshop at the **Nepal Technology Innovation Center (NTIC), Kathmandu University**, this project demonstrates low-latency object detection on edge hardware — no cloud inference required.
 
-![Fire Detection Result](assets/fire1.jpeg)
+![Fire Detection Result](assets/fire1.png)
 
 ## 📋 Table of Contents
 
@@ -97,13 +97,6 @@ The script will open a live camera feed and draw bounding boxes around any detec
 The model reliably detects fire in varied lighting and background conditions. Below are sample detections from live testing on the Jetson Nano:
 
 ![Detection Sample](assets/fire1.jpeg)
-
-## Future Improvements
-
-- [ ] Add smoke-specific detection accuracy benchmarks
-- [ ] Integrate an alert system (buzzer/SMS/email) on detection
-- [ ] Optimize model with TensorRT for faster Jetson Nano inference
-- [ ] Expand training dataset for better generalization across environments
 
 ## Contributors
 
