@@ -18,7 +18,7 @@ Real-time fire and smoke detection running on an **NVIDIA Jetson Nano**, powered
 
 ## Overview
 
-This system uses a custom-trained YOLOv8 model to detect fire and smoke in real time from a live camera feed. Inference runs entirely on-device on the Jetson Nano, making it suitable for standalone deployment in environments where early fire detection matters — warehouses, forests, industrial sites, or home safety setups — without needing constant internet connectivity.
+This system uses a custom-trained YOLOv8 model to detect fire and smoke in real time from a live camera feed. Inference runs entirely on-device on the Jetson Nano, making it suitable for standalone deployment in environments where early fire detection matters — warehouses, forests, industrial sites or home safety setups — without needing constant internet connectivity.
 
 ## Tech Stack
 
